@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-08",
+  "anchor": {
+    "id": "LYCHEE",
+    "name": "Khúc bạch vải – hạnh nhân",
+    "status": "anchor founder chose lychee; khúc bạch adaptation proposed by parent",
+    "components": "Kem sữa/almond nhẹ + insert vải ráo + hạnh nhân rang; không đổ nước chè vào bánh",
+    "hook": "Cắt lộ miếng vải trắng trong và lớp kem, hạnh nhân vỡ rắc",
+    "risk": "Vải ướt; kem làm mềm ruột. Tháng 11 không được gọi là vải tươi chính vụ nếu dùng đông lạnh/đóng hộp."
+  },
+  "complements": [
+    {
+      "id": 53,
+      "name": "Bánh da lợn – lá dứa – đậu xanh – dừa",
+      "components": "Kem lá dứa dừa, paste đậu xanh mỏng",
+      "hook": "Tầng xanh–vàng–trắng như bánh da lợn",
+      "risk": "Không nhồi khối bánh hấp; nhân đặc/ẩm cần thử",
+      "status": "selected bench prototype, not validated product"
+    },
+    {
+      "id": 56,
+      "name": "Cà phê trứng",
+      "components": "Kem trứng chín, cà phê cô dạng gel/ganache",
+      "hook": "Lõi vàng kem–nâu cà phê như cà phê trứng",
+      "risk": "Kem lấn cà phê, syrup thấm ruột; không bắt buộc khò đường",
+      "status": "selected bench prototype, not validated product"
+    },
+    {
+      "id": 55,
+      "name": "Khoai môn – trứng muối kim sa – dừa",
+      "components": "Kem khoai môn, trứng muối sánh, dừa",
+      "hook": "Tím nhạt–vàng kim sa lộ khi cắt",
+      "risk": "Khoai môn không tự tím đậm; nhân đặc và dầu dễ tách",
+      "status": "selected bench prototype, not validated product"
+    }
+  ],
+  "selection_basis": "SUPERSEDED by founder clarification: research ingredient-led croissant flavors like lychee, not Vietnamese-dish fusion. This file records historical assistant proposals, not approved menu choices. See research/flavors/ for current research.",
+  "candidates_count": 100,
+  "excluded_pool_indices": [
+    23,
+    30,
+    34,
+    38,
+    39,
+    41,
+    44,
+    53,
+    58,
+    59,
+    60,
+    67,
+    76,
+    80,
+    83,
+    88,
+    89,
+    90,
+    91,
+    94,
+    96
+  ],
+  "source_register": [
+    [
+      "V1",
+      "Vietnam Tourism — 15 dreamy desserts",
+      "https://vietnam.travel/things-to-do/15-dreamy-desserts-try-vietnam/",
+      "Đã đọc trực tiếp. Xác nhận khúc bạch vải–hạnh nhân, chuối dừa, chè bắp, sữa chua nếp cẩm, mè/gừng/đậu xanh là cảm hứng món Việt; không xác nhận croissant sẽ bán được."
+    ],
+    [
+      "V2",
+      "Vietnam Tourism — 13 fantastic fruits",
+      "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+      "Đã đọc trực tiếp. Bối cảnh trái cây; không dùng để chốt lịch thu hoạch mọi vùng hay cung ứng Sóc Sơn."
+    ],
+    [
+      "V3",
+      "Vietnam Tourism — 5 fantastic Vietnamese coffees",
+      "https://vietnam.travel/things-to-do/5-fantastic-vietnamese-coffees/",
+      "Đã đọc trực tiếp. Mô tả cà phê trứng là đặc sản Hà Nội, cùng cà phê dừa/sữa chua/bạc xỉu. Không chứng minh demand croissant."
+    ],
+    [
+      "T1",
+      "Puratos Taste Tomorrow — 3 textures, 30/04/2024",
+      "https://www.puratos.us/en/blog/taste-tomorrow/3-textures-taking-the-spotlight-in-pastry-baked-goods-chocolate-innovations",
+      "Đã đọc trực tiếp. Nguồn thương mại về flaky/chewy/texture mash-up, crookie và hybrid. Đây là tín hiệu format từ 2024, không phải bằng chứng SKU đang viral ở Sóc Sơn tháng 11/2026."
+    ],
+    [
+      "B1",
+      "BAKERpedia — croissant",
+      "https://bakerpedia.com/processes/croissant/",
+      "Đã đọc ở audit trước; hỗ trợ quy trình laminated dough nói chung. Không hỗ trợ tỷ lệ filling hoặc thời gian giữ giòn từng concept."
+    ],
+    [
+      "B2",
+      "Puratos — packaging laminated pastry",
+      "https://www.puratos.com/blog/make-and-pack-crusty-laminated-pastry-that-stays-fresh-longer",
+      "Đã đọc ở audit trước. Gợi ý bao bì thoáng và tránh xếp đè; không bảo đảm mọi nhân giữ giòn khi giao."
+    ],
+    [
+      "B3",
+      "ASB — Fillings",
+      "https://asbe.org/article/fillings/",
+      "Chỉ đọc được phần mở đầu công khai, phần còn lại yêu cầu membership. Chỉ xác nhận filling tạo màu/vị/texture và cần ổn định; không dùng làm bằng chứng cho số aw/pH hay bảo quản cụ thể."
+    ],
+    [
+      "S1",
+      "FAO — Lychee production in Viet Nam",
+      "https://www.fao.org/4/ac684e/ac684e0d.htm",
+      "Đã đọc trực tiếp. Tài liệu lịch sử về vải miền Bắc, không dùng số sản xuất cũ làm forecast hiện tại."
+    ]
+  ]
+}

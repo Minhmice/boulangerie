@@ -1,0 +1,12 @@
+- socson-occasions: research/agents/2026-11-08-socson-occasions.md
+- socson-menu: research/agents/2026-11-08-socson-menu.md
+- november-menu: research/agents/2026-11-08-november-menu.md
+- seasonal-calendar: research/agents/2026-11-08-seasonal-calendar.md
+- local-price: research/agents/2026-11-08-local-price.md
+- drop-model: research/agents/2026-11-08-drop-model.md
+- campaign-experiments: research/agents/2026-11-08-campaign-experiments.md
+- content-plan: research/agents/2026-11-08-content-plan.md
+- facebook-local: research/agents/2026-11-08-facebook-local.md
+- local-partnerships: research/agents/2026-11-08-local-partnerships.md
+- offer-design: research/agents/2026-11-08-offer-design.md
+- campaign-calendar: research/agents/2026-11-08-campaign-calendar.md

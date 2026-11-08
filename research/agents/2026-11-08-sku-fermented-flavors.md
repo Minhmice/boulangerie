@@ -1,0 +1,3 @@
+# fermented-flavors
+
+"{\n  \"status\": \"complete\",\n  \"deliverable\": \"12 fermented/cultured croissant SKU candidates covering yogurt, kefir, miso, soy-adjacent savory fermentation, fish-sauce caramel, cheese, pickled mustard greens, and fermented fruit. Each includes exact flavor name, components, shareability hypothesis, occasion, season, production/texture risk, reuse strategy, factual-source URLs, and confidence. Recommended three: Lychee Yogurt Cloud, Miso-Salted Caramel & Sesame, Fish-Sauce Butter Caramel & Peanut.\",\n  \"notes\": \"Virality framed as hypothesis, not proof. Best three are complementary: founder anchor, broad sweet-salty option, and locally distinctive higher-risk option.\"\n}"

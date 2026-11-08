@@ -1,0 +1,10 @@
+- official-web: research/lim-donut/2026-11-08-official-web.md
+- official-facebook: research/lim-donut/2026-11-08-facebook.md
+- official-tiktok-media: research/lim-donut/2026-11-08-media.md
+- menu-archive: research/lim-donut/2026-11-08-menu-archive.md
+- ingredients: research/lim-donut/2026-11-08-ingredients.md
+- flavor-pattern: research/lim-donut/2026-11-08-flavor-pattern.md
+- rotation-pattern: research/lim-donut/2026-11-08-rotation-pattern.md
+- offer-pricing: research/lim-donut/2026-11-08-offer-pricing.md
+- customer-reviews: research/lim-donut/2026-11-08-customer-reviews.md
+- synthesis-critic: research/lim-donut/2026-11-08-critique.md

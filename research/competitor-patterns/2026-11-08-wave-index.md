@@ -1,0 +1,8 @@
+- bakes-saigon: research/competitor-patterns/2026-11-08-bakes-saigon.md
+- de-beurre-hanoi: research/competitor-patterns/2026-11-08-de-beurre-hanoi.md
+- tan-man-croissant: research/competitor-patterns/2026-11-08-tan-man-croissant.md
+- lune-croissanterie: research/competitor-patterns/2026-11-08-lune-croissanterie.md
+- cedric-grolet: research/competitor-patterns/2026-11-08-cedric-grolet.md
+- maison-marou: research/competitor-patterns/2026-11-08-maison-marou.md
+- asian-trend-bakeries: research/competitor-patterns/2026-11-08-asian-trend-bakeries.md
+- hanoi-french-baseline: research/competitor-patterns/2026-11-08-hanoi-french-baseline.md

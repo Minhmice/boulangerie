@@ -1,0 +1,2412 @@
+{
+  "date": "2026-11-08",
+  "count": 100,
+  "scope": "100 non-lychee flavor concepts, deduplicated by principal flavor/texture; not 100 validated recipes",
+  "scoring": {
+    "scale": "1–5 editorial judgments, not evidence of demand",
+    "weights": {
+      "visual": 0.3,
+      "recognizability": 0.15,
+      "coherence": 0.25,
+      "delivery": 0.15,
+      "reuse": 0.15
+    }
+  },
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Bún chả nướng – dưa góp – rau thơm",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-street-food-savory.md",
+      "pool_index": 0,
+      "components": "Thịt nướng, glaze mắm chua ngọt, đồ chua ráo, rau thơm",
+      "hook": "Mặt cắt thịt xém và rau xanh; bún chả đổi vỏ",
+      "risk": "Glaze/đồ chua làm ướt ruột; rau héo",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "C1",
+        "C3"
+      ],
+      "scores": [
+        4,
+        5,
+        4,
+        2,
+        2
+      ],
+      "weighted_score": 71,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 2,
+      "name": "Pâté – chả lụa – đồ chua",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-street-food-savory.md",
+      "pool_index": 1,
+      "components": "Pâté, chả lụa, đồ chua ráo",
+      "hook": "Cắt lộ pâté–chả–đồ chua thành ba lớp",
+      "risk": "Pâté béo nặng; giống bánh mì nếu không có điểm riêng",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "C1",
+        "C3"
+      ],
+      "scores": [
+        3,
+        5,
+        4,
+        3,
+        3
+      ],
+      "weighted_score": 71,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 3,
+      "name": "Bánh gối – thịt nấm – trứng cút",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-street-food-savory.md",
+      "pool_index": 2,
+      "components": "Thịt nấm, miến lượng nhỏ, trứng cút",
+      "hook": "Cắt trúng trứng cút nguyên lòng đỏ",
+      "risk": "Nhân nặng cản nở; lượng nhân khó đều",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "C1",
+        "C3"
+      ],
+      "scores": [
+        5,
+        5,
+        4,
+        3,
+        2
+      ],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 4,
+      "name": "Tôm – khoai lang giòn kiểu bánh tôm",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-street-food-savory.md",
+      "pool_index": 3,
+      "components": "Tôm, khoai lang giòn, hành",
+      "hook": "Tôm và khoai vàng gợi bánh tôm trong vỏ ngàn lớp",
+      "risk": "Tôm/khoai ẩm, topping dễ gãy",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "C1",
+        "C3"
+      ],
+      "scores": [
+        4,
+        4,
+        4,
+        2,
+        2
+      ],
+      "weighted_score": 68,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 5,
+      "name": "Chả cá nghệ – thì là",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-street-food-savory.md",
+      "pool_index": 4,
+      "components": "Cá nghệ, thì là, hành",
+      "hook": "Lõi cá vàng nghệ với thì là xanh",
+      "risk": "Cá ra nước và hương cá mạnh khi nguội",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "C1",
+        "C3"
+      ],
+      "scores": [
+        4,
+        4,
+        4,
+        2,
+        2
+      ],
+      "weighted_score": 68,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 6,
+      "name": "Bún thang – gà – trứng – giò",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-street-food-savory.md",
+      "pool_index": 5,
+      "components": "Gà xé, trứng thái sợi, giò, nấm",
+      "hook": "Nhiều lớp topping bún thang trong một cú cắt",
+      "risk": "Quá nhiều thành phần và khó định lượng",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "C1",
+        "C3"
+      ],
+      "scores": [
+        4,
+        4,
+        3,
+        2,
+        1
+      ],
+      "weighted_score": 60,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 7,
+      "name": "Cá giòn – cà chua – măng chua",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-street-food-savory.md",
+      "pool_index": 6,
+      "components": "Cá giòn, paste cà chua, măng chua ráo",
+      "hook": "Lõi đỏ cam, cá giòn và thì là",
+      "risk": "Nhiều nguồn nước; cá giòn mau mềm",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "C1",
+        "C3"
+      ],
+      "scores": [
+        4,
+        3,
+        3,
+        1,
+        1
+      ],
+      "weighted_score": 54,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 8,
+      "name": "Vằn thắn – nấm – hẹ – da heo giòn",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-street-food-savory.md",
+      "pool_index": 7,
+      "components": "Thịt, nấm hương, hẹ, da heo giòn",
+      "hook": "Vụn da heo kêu rắc và lõi nấm hẹ",
+      "risk": "Da heo mất giòn; concept tên khó hiểu",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "C1",
+        "C3"
+      ],
+      "scores": [
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "weighted_score": 54,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 9,
+      "name": "Đậu giòn – mắm tôm – tía tô",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-street-food-savory.md",
+      "pool_index": 8,
+      "components": "Đậu ép ráo, mắm tôm liều nhỏ, tía tô",
+      "hook": "Bún đậu thành croissant tạo tò mò/phản ứng",
+      "risk": "Mùi mạnh; đậu ướt; độ lạ không đảm bảo ngon",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "C1",
+        "C3"
+      ],
+      "scores": [
+        5,
+        5,
+        2,
+        1,
+        1
+      ],
+      "weighted_score": 61,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 10,
+      "name": "Xôi xéo – đậu xanh – hành phi",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-street-food-savory.md",
+      "pool_index": 9,
+      "components": "Đậu xanh mịn, hành phi, chả",
+      "hook": "Lõi vàng và hành phi gợi xôi xéo",
+      "risk": "Đậu đặc làm ruột nặng; hành mất giòn",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "C1",
+        "C3"
+      ],
+      "scores": [
+        4,
+        5,
+        4,
+        3,
+        3
+      ],
+      "weighted_score": 77,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 11,
+      "name": "Nem chua rán – ớt – lime",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-street-food-savory.md",
+      "pool_index": 10,
+      "components": "Nhân nem chua rán đã chế biến, ớt, lime",
+      "hook": "Lõi hồng và áo vụn giòn màu ớt",
+      "risk": "Dễ mặn/chua gắt; khác bản gốc khi nguội",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "C1",
+        "C3"
+      ],
+      "scores": [
+        4,
+        5,
+        3,
+        3,
+        2
+      ],
+      "weighted_score": 69,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 12,
+      "name": "Nấm hương – trứng – hành phi",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-street-food-savory.md",
+      "pool_index": 11,
+      "components": "Nấm hương, trứng chín, hành phi",
+      "hook": "Lõi vàng lấm tấm nấm đen",
+      "risk": "Nấm ra nước; trứng dai khi hâm lại",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "C1",
+        "C3"
+      ],
+      "scores": [
+        3,
+        5,
+        4,
+        2,
+        3
+      ],
+      "weighted_score": 68,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 13,
+      "name": "Bưởi – mật ong – kem sữa",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-fruits.md",
+      "pool_index": 12,
+      "components": "Bưởi ráo, kem mật ong, vỏ bưởi confit",
+      "hook": "Tép bưởi trắng trong ruột kem",
+      "risk": "Tép bưởi rỉ nước, cùi đắng",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://bakerpedia.com/processes/croissant/"
+      ],
+      "scores": [
+        4,
+        4,
+        4,
+        1,
+        3
+      ],
+      "weighted_score": 68,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 14,
+      "name": "Chanh leo – chocolate trắng rang",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-fruits.md",
+      "pool_index": 13,
+      "components": "Curd chanh leo, chocolate trắng rang",
+      "hook": "Lõi vàng chua giữa vỏ nâu giòn",
+      "risk": "Nhân ẩm, chua và ngọt cần cân bằng",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://pastryartsmag.com/",
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/"
+      ],
+      "scores": [
+        5,
+        5,
+        5,
+        2,
+        4
+      ],
+      "weighted_score": 88,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 15,
+      "name": "Me caramel – bơ mặn – lạc giòn",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-fruits.md",
+      "pool_index": 14,
+      "components": "Caramel me, bơ mặn, lạc rang",
+      "hook": "Caramel hổ phách và mảnh kẹo lạc giòn",
+      "risk": "Dễ dính/ngọt; không được gọi không thấm nước",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://bakerpedia.com/processes/croissant/"
+      ],
+      "scores": [
+        4,
+        5,
+        5,
+        3,
+        4
+      ],
+      "weighted_score": 85,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 16,
+      "name": "Nhãn – sen – trà nhài",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-fruits.md",
+      "pool_index": 15,
+      "components": "Nhãn ráo, kem sen, trà nhài nhẹ",
+      "hook": "Viên nhãn trong kem sen trắng",
+      "risk": "Nhãn rỉ nước, sen bột; nhài dễ lấn",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://bakerpedia.com/processes/croissant/"
+      ],
+      "scores": [
+        4,
+        5,
+        4,
+        2,
+        3
+      ],
+      "weighted_score": 74,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 17,
+      "name": "Măng cụt – dừa – chocolate trắng",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-fruits.md",
+      "pool_index": 16,
+      "components": "Măng cụt, kem dừa, chocolate trắng",
+      "hook": "Múi măng cụt trắng như viên ngọc",
+      "risk": "Khó nguồn quả đẹp; vị nhẹ dễ chìm trong bơ",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://pastryartsmag.com/"
+      ],
+      "scores": [
+        4,
+        4,
+        4,
+        1,
+        3
+      ],
+      "weighted_score": 68,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 18,
+      "name": "Ổi hồng – xí muội – cream cheese",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-fruits.md",
+      "pool_index": 17,
+      "components": "Ổi hồng lọc mịn, cream cheese, xí muội",
+      "hook": "Màu hồng ổi và ký ức ổi chấm xí muội",
+      "risk": "Ổi sạn; xí muội mặn; gel làm mềm ruột",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://fao.org/4/ad523e/ad523e02.htm"
+      ],
+      "scores": [
+        5,
+        5,
+        4,
+        2,
+        4
+      ],
+      "weighted_score": 83,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 19,
+      "name": "Khế caramel – mật ong quế",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-fruits.md",
+      "pool_index": 18,
+      "components": "Khế caramel, vanilla, mật ong quế",
+      "hook": "Ngôi sao khế nhìn hiểu ngay",
+      "risk": "Khế ra nước, dễ quá chua",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://bakerpedia.com/processes/croissant/"
+      ],
+      "scores": [
+        5,
+        4,
+        3,
+        2,
+        3
+      ],
+      "weighted_score": 72,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 20,
+      "name": "Sầu riêng – trứng muối kim sa",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-fruits.md",
+      "pool_index": 19,
+      "components": "Sầu riêng, kem trứng muối",
+      "hook": "Vàng sầu riêng và lõi kim sa; liên tưởng bánh pía",
+      "risk": "Mùi lấn các vị khác; nhân nặng và béo",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://vietnamtourism.com/"
+      ],
+      "scores": [
+        5,
+        5,
+        4,
+        2,
+        3
+      ],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 21,
+      "name": "Mít nướng – lá dứa – dừa",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-fruits.md",
+      "pool_index": 20,
+      "components": "Mít cắt nhỏ, frangipane dừa lá dứa",
+      "hook": "Mít vàng trên lõi xanh lá dứa",
+      "risk": "Mít dai, nhân béo nặng; không chắc màu xanh sau nướng",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://bakerpedia.com/processes/croissant/"
+      ],
+      "scores": [
+        5,
+        5,
+        4,
+        3,
+        4
+      ],
+      "weighted_score": 86,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 22,
+      "name": "Mãng cầu – tắc – ganache trắng",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-fruits.md",
+      "pool_index": 21,
+      "components": "Mãng cầu lọc, tắc, ganache trắng",
+      "hook": "Kem trắng chua dịu cạnh vỏ bơ",
+      "risk": "Thịt quả xơ, acid/ẩm làm nhân kém ổn định",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://pastryartsmag.com/"
+      ],
+      "scores": [
+        4,
+        4,
+        4,
+        2,
+        3
+      ],
+      "weighted_score": 71,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 23,
+      "name": "Long nhãn – hồng trà – caramel muối",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-fruits.md",
+      "pool_index": 22,
+      "components": "Long nhãn, hồng trà, caramel mặn",
+      "hook": "Lõi caramel có long nhãn sẫm, chuyện trà mùa lạnh",
+      "risk": "Long nhãn dai và caramel dính; trà có thể đắng",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://bakerpedia.com/processes/croissant/"
+      ],
+      "scores": [
+        3,
+        4,
+        4,
+        3,
+        3
+      ],
+      "weighted_score": 68,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 24,
+      "name": "Cốm – chả cốm – bơ nâu",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-sweet-savory.md",
+      "pool_index": 24,
+      "components": "Chả cốm vụn, cốm, chút bơ nâu mật ong",
+      "hook": "Xanh cốm và lõi chả tạo đối lập ngọt–mặn",
+      "risk": "Nhân thịt/cốm nhiều bước, dễ nặng",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN5--a5TRCQ_34TE9MkDtVkKJkA9z2iDa834p2ZMQYta4WZ2TBuE0aGxTzmeGzOEc7f5diLeleuGS5MaLf6n_eQ22xB08myQrb3OUCtuL5bJ43dycB0IU4gmI4laPRrDR8Z7Xlt_89uHuaOh1nBLFO4M2fcL45rRA=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_vjXMvuJ7b8zVrdHRZQhST_xi9OiVDpACwtARXL9epXvJK3bnOl0_7bTPtO-q3DtSAXKoweGJO2ntaTWIUKr6_KiGEfxuMTXlixQk0uzO98cUGTxstfIZVnZOvhF7mPbYmT1Ljd1bn2HUxbS5JTM3nmaMHgbjxhrxDREMBg=="
+      ],
+      "scores": [
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "weighted_score": 63,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 25,
+      "name": "Bánh chưng – đậu xanh – ba chỉ tiêu",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-sweet-savory.md",
+      "pool_index": 25,
+      "components": "Đậu xanh, ba chỉ tiêu, hành chua ráo",
+      "hook": "Lớp vàng đậu và thịt như bánh chưng đổi vỏ",
+      "risk": "Dễ thành quá béo; concept Tết không mặc định hợp quanh năm",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiwJm3rShHmOQduU7eRlGnPP88Ip8bYqBWXmxyW5o683Va1bT19ecyFA1577hqfLjP-H3_JBLlQ-LvDaKBX99U5q40QaT8gXhhDdzcj0K7tZKgsHBUiS6n3KFy3b_EbmcVVt5n52kiuL_gQbrN8YO00taEBVibKERIaA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECCg4yk9W_Qmhk0utTnV2b5px2bb1kvbH_HGiCit3wUJzVd6rT5Z5EuHEeIjtelLaE3ggP1E5DQQfJL1BqAoBZKjNPcifz0oN6Ztw8giPNmsiw1cukHkUBSerxanLn5j-KMxL-KHzPfDa5ZItM5QplpHxro547cYlHJzGtyMFnErzFKXNyzlnqoeZ1X-ctSCK8EmDHZhpW"
+      ],
+      "scores": [
+        4,
+        5,
+        3,
+        2,
+        2
+      ],
+      "weighted_score": 66,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 26,
+      "name": "Đậu xanh – trứng muối – lá chanh",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-sweet-savory.md",
+      "pool_index": 26,
+      "components": "Đậu xanh, trứng muối, lá chanh nhẹ",
+      "hook": "Lòng đỏ như mặt trăng giữa đậu xanh",
+      "risk": "Nhân bột/nặng, lá chanh dễ gắt",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiwJm3rShHmOQduU7eRlGnPP88Ip8bYqBWXmxyW5o683Va1bT19ecyFA1577hqfLjP-H3_JBLlQ-LvDaKBX99U5q40QaT8gXhhDdzcj0K7tZKgsHBUiS6n3KFy3b_EbmcVVt5n52kiuL_gQbrN8YO00taEBVibKERIaA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECCg4yk9W_Qmhk0utTnV2b5px2bb1kvbH_HGiCit3wUJzVd6rT5Z5EuHEeIjtelLaE3ggP1E5DQQfJL1BqAoBZKjNPcifz0oN6Ztw8giPNmsiw1cukHkUBSerxanLn5j-KMxL-KHzPfDa5ZItM5QplpHxro547cYlHJzGtyMFnErzFKXNyzlnqoeZ1X-ctSCK8EmDHZhpW"
+      ],
+      "scores": [
+        4,
+        5,
+        4,
+        3,
+        4
+      ],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 27,
+      "name": "Cốm – phô mai già – mè",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-sweet-savory.md",
+      "pool_index": 27,
+      "components": "Cốm, phô mai già, mè",
+      "hook": "Xanh cốm và mặt phô mai vàng nướng",
+      "risk": "Phô mai lấn cốm; tinh bột đặc",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN5--a5TRCQ_34TE9MkDtVkKJkA9z2iDa834p2ZMQYta4WZ2TBuE0aGxTzmeGzOEc7f5diLeleuGS5MaLf6n_eQ22xB08myQrb3OUCtuL5bJ43dycB0IU4gmI4laPRrDR8Z7Xlt_89uHuaOh1nBLFO4M2fcL45rRA=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_vjXMvuJ7b8zVrdHRZQhST_xi9OiVDpACwtARXL9epXvJK3bnOl0_7bTPtO-q3DtSAXKoweGJO2ntaTWIUKr6_KiGEfxuMTXlixQk0uzO98cUGTxstfIZVnZOvhF7mPbYmT1Ljd1bn2HUxbS5JTM3nmaMHgbjxhrxDREMBg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECCg4yk9W_Qmhk0utTnV2b5px2bb1kvbH_HGiCit3wUJzVd6rT5Z5EuHEeIjtelLaE3ggP1E5DQQfJL1BqAoBZKjNPcifz0oN6Ztw8giPNmsiw1cukHkUBSerxanLn5j-KMxL-KHzPfDa5ZItM5QplpHxro547cYlHJzGtyMFnErzFKXNyzlnqoeZ1X-ctSCK8EmDHZhpW"
+      ],
+      "scores": [
+        4,
+        4,
+        3,
+        3,
+        3
+      ],
+      "weighted_score": 69,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 28,
+      "name": "Chuối nướng – caramel mắm ruốc",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-sweet-savory.md",
+      "pool_index": 28,
+      "components": "Chuối nướng cô, caramel mắm ruốc liều nhỏ",
+      "hook": "Món chuối ngọt có cú twist mắm ruốc",
+      "risk": "Dễ gây khó chịu; phải thử mù trước",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqJQZkAjc-R-VEfB9RW9cr4IDpUCsj9YmV0UuZj2uX9txU_pLqUEZ330cZowJNO2GhNNYvpWM6CeqjhC8VCxupsaozkoiOq-dMDVWDPSzCWkm2DgYAG-JeMtTjCjJ3_jbSPJzD_JrxkuXiYHCouzZWHRMC1oc=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECCg4yk9W_Qmhk0utTnV2b5px2bb1kvbH_HGiCit3wUJzVd6rT5Z5EuHEeIjtelLaE3ggP1E5DQQfJL1BqAoBZKjNPcifz0oN6Ztw8giPNmsiw1cukHkUBSerxanLn5j-KMxL-KHzPfDa5ZItM5QplpHxro547cYlHJzGtyMFnErzFKXNyzlnqoeZ1X-ctSCK8EmDHZhpW"
+      ],
+      "scores": [
+        4,
+        3,
+        2,
+        2,
+        2
+      ],
+      "weighted_score": 55,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 29,
+      "name": "Dứa – ớt – caramel nước mắm",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-sweet-savory.md",
+      "pool_index": 29,
+      "components": "Dứa cô, caramel nước mắm, ớt",
+      "hook": "Vàng dứa đỏ ớt, vị trái cây chấm muối",
+      "risk": "Mùi mắm và nước quả khó cân",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqJQZkAjc-R-VEfB9RW9cr4IDpUCsj9YmV0UuZj2uX9txU_pLqUEZ330cZowJNO2GhNNYvpWM6CeqjhC8VCxupsaozkoiOq-dMDVWDPSzCWkm2DgYAG-JeMtTjCjJ3_jbSPJzD_JrxkuXiYHCouzZWHRMC1oc=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECCg4yk9W_Qmhk0utTnV2b5px2bb1kvbH_HGiCit3wUJzVd6rT5Z5EuHEeIjtelLaE3ggP1E5DQQfJL1BqAoBZKjNPcifz0oN6Ztw8giPNmsiw1cukHkUBSerxanLn5j-KMxL-KHzPfDa5ZItM5QplpHxro547cYlHJzGtyMFnErzFKXNyzlnqoeZ1X-ctSCK8EmDHZhpW"
+      ],
+      "scores": [
+        4,
+        4,
+        3,
+        2,
+        3
+      ],
+      "weighted_score": 66,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 30,
+      "name": "Mơ muối – mật ong – thyme",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-sweet-savory.md",
+      "pool_index": 31,
+      "components": "Mơ muối, mật ong, thyme",
+      "hook": "Lõi hổ phách, chua–mặn–thảo mộc",
+      "risk": "Mặn và hương thyme dễ lấn; quả ướt",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqJQZkAjc-R-VEfB9RW9cr4IDpUCsj9YmV0UuZj2uX9txU_pLqUEZ330cZowJNO2GhNNYvpWM6CeqjhC8VCxupsaozkoiOq-dMDVWDPSzCWkm2DgYAG-JeMtTjCjJ3_jbSPJzD_JrxkuXiYHCouzZWHRMC1oc=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECCg4yk9W_Qmhk0utTnV2b5px2bb1kvbH_HGiCit3wUJzVd6rT5Z5EuHEeIjtelLaE3ggP1E5DQQfJL1BqAoBZKjNPcifz0oN6Ztw8giPNmsiw1cukHkUBSerxanLn5j-KMxL-KHzPfDa5ZItM5QplpHxro547cYlHJzGtyMFnErzFKXNyzlnqoeZ1X-ctSCK8EmDHZhpW"
+      ],
+      "scores": [
+        3,
+        3,
+        4,
+        3,
+        3
+      ],
+      "weighted_score": 65,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 31,
+      "name": "Dừa – thốt nốt – mắm ruốc",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-sweet-savory.md",
+      "pool_index": 32,
+      "components": "Dừa, thốt nốt, caramel mắm ruốc liều nhỏ",
+      "hook": "Bật mí umami trong nhân dừa ngọt",
+      "risk": "Mắm ruốc lấn dừa; acceptance thấp chưa biết",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqJQZkAjc-R-VEfB9RW9cr4IDpUCsj9YmV0UuZj2uX9txU_pLqUEZ330cZowJNO2GhNNYvpWM6CeqjhC8VCxupsaozkoiOq-dMDVWDPSzCWkm2DgYAG-JeMtTjCjJ3_jbSPJzD_JrxkuXiYHCouzZWHRMC1oc=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECCg4yk9W_Qmhk0utTnV2b5px2bb1kvbH_HGiCit3wUJzVd6rT5Z5EuHEeIjtelLaE3ggP1E5DQQfJL1BqAoBZKjNPcifz0oN6Ztw8giPNmsiw1cukHkUBSerxanLn5j-KMxL-KHzPfDa5ZItM5QplpHxro547cYlHJzGtyMFnErzFKXNyzlnqoeZ1X-ctSCK8EmDHZhpW"
+      ],
+      "scores": [
+        3,
+        3,
+        2,
+        2,
+        3
+      ],
+      "weighted_score": 52,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 32,
+      "name": "Dâu tằm – tiêu đen – phô mai mặn",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-sweet-savory.md",
+      "pool_index": 33,
+      "components": "Dâu tằm cô, tiêu đen, phô mai mặn",
+      "hook": "Lõi tím đậm và vị tiêu bất ngờ",
+      "risk": "Chua–mặn–cay dễ mất cân bằng",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqJQZkAjc-R-VEfB9RW9cr4IDpUCsj9YmV0UuZj2uX9txU_pLqUEZ330cZowJNO2GhNNYvpWM6CeqjhC8VCxupsaozkoiOq-dMDVWDPSzCWkm2DgYAG-JeMtTjCjJ3_jbSPJzD_JrxkuXiYHCouzZWHRMC1oc=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECCg4yk9W_Qmhk0utTnV2b5px2bb1kvbH_HGiCit3wUJzVd6rT5Z5EuHEeIjtelLaE3ggP1E5DQQfJL1BqAoBZKjNPcifz0oN6Ztw8giPNmsiw1cukHkUBSerxanLn5j-KMxL-KHzPfDa5ZItM5QplpHxro547cYlHJzGtyMFnErzFKXNyzlnqoeZ1X-ctSCK8EmDHZhpW"
+      ],
+      "scores": [
+        5,
+        4,
+        3,
+        2,
+        3
+      ],
+      "weighted_score": 72,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 33,
+      "name": "Cà phê phin – chocolate đen – cacao nib",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-low-moisture.md",
+      "pool_index": 35,
+      "components": "Ganache cà phê chocolate đen, cacao nib",
+      "hook": "Lõi nâu đậm với tiếng hạt cacao giòn",
+      "risk": "Nhân cứng khi lạnh hoặc mềm chảy khi ấm",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/secret-art-vietnamese-coffee/",
+        "https://novasina.ch/understanding-the-shelf-life-of-bakery-products/"
+      ],
+      "scores": [
+        4,
+        5,
+        5,
+        4,
+        4
+      ],
+      "weighted_score": 88,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 34,
+      "name": "Cà phê muối – chocolate trắng rang",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-low-moisture.md",
+      "pool_index": 36,
+      "components": "Caramel cà phê muối, chocolate trắng rang",
+      "hook": "Cà phê muối chuyển thành nhân bánh",
+      "risk": "Dễ quá ngọt/mặn, caramel dính",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/secret-art-vietnamese-coffee/",
+        "https://novasina.ch/understanding-the-shelf-life-of-bakery-products/"
+      ],
+      "scores": [
+        4,
+        5,
+        5,
+        3,
+        4
+      ],
+      "weighted_score": 85,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 35,
+      "name": "Bưởi confit – chocolate đen – hạnh nhân",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-low-moisture.md",
+      "pool_index": 37,
+      "components": "Vỏ bưởi confit, chocolate đen, hạnh nhân",
+      "hook": "Lát vỏ bưởi vàng trong chocolate đen",
+      "risk": "Vỏ bưởi đắng/dai; không thay bằng tép tươi tùy tiện",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://novasina.ch/understanding-the-shelf-life-of-bakery-products/"
+      ],
+      "scores": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 36,
+      "name": "Xoài xanh – muối ớt – hạt điều",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-low-moisture.md",
+      "pool_index": 40,
+      "components": "Xoài chua dạng cô/khô, hạt điều, muối ớt",
+      "hook": "Xoài lắc thành croissant",
+      "risk": "Muối ớt lấn bơ; xoài khô dai",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://novasina.ch/understanding-the-shelf-life-of-bakery-products/"
+      ],
+      "scores": [
+        5,
+        5,
+        3,
+        3,
+        3
+      ],
+      "weighted_score": 78,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 37,
+      "name": "Chôm chôm – vanilla – hạnh nhân",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-low-moisture.md",
+      "pool_index": 42,
+      "components": "Chôm chôm, vanilla, hạnh nhân",
+      "hook": "Nhân trái trong như ngọc đối lập hạt giòn",
+      "risk": "Hương chôm chôm nhẹ, dạng khô khó tìm và không giống tươi",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/13-fantastic-fruits-vietnam/",
+        "https://novasina.ch/understanding-the-shelf-life-of-bakery-products/"
+      ],
+      "scores": [
+        3,
+        4,
+        3,
+        2,
+        3
+      ],
+      "weighted_score": 60,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 38,
+      "name": "Mè đen – đường đen – dừa",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-low-moisture.md",
+      "pool_index": 43,
+      "components": "Praline mè đen, đường đen, dừa nướng",
+      "hook": "Lõi đen cạnh kem trắng và dừa giòn",
+      "risk": "Mè dễ đắng/béo, crumbs mất giòn",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://novasina.ch/understanding-the-shelf-life-of-bakery-products/"
+      ],
+      "scores": [
+        4,
+        5,
+        5,
+        4,
+        4
+      ],
+      "weighted_score": 88,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 39,
+      "name": "Matcha – pistachio – kataifi giòn",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-global-viral.md",
+      "pool_index": 45,
+      "components": "Kem matcha, pistachio, kataifi giòn",
+      "hook": "Nhân xanh và tiếng sợi giòn khi cắt",
+      "risk": "Kataifi mềm trong kem; hạt có thể lấn trà",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://www.tastetomorrow.com/inspiration/viral-flavors-to-apply-in-your-next-baked-good--pastry-or-choc1",
+        "https://www.tastetomorrow.com/inspiration/viral-textures-taking-over-the-bakery--patisserie---chocolate-in"
+      ],
+      "scores": [
+        5,
+        4,
+        4,
+        3,
+        3
+      ],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 40,
+      "name": "Cacao – mè đen – kataifi",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-global-viral.md",
+      "pool_index": 46,
+      "components": "Chocolate, praline mè, kataifi",
+      "hook": "Đen–vàng, cắt nghe rắc",
+      "risk": "Nhân quá đặc; kataifi hút ẩm",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://www.tastetomorrow.com/inspiration/viral-flavors-to-apply-in-your-next-baked-good--pastry-or-choc1",
+        "https://www.tastetomorrow.com/inspiration/viral-textures-taking-over-the-bakery--patisserie---chocolate-in"
+      ],
+      "scores": [
+        5,
+        4,
+        4,
+        3,
+        3
+      ],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 41,
+      "name": "Xoài – chanh leo – vanilla",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-global-viral.md",
+      "pool_index": 47,
+      "components": "Gel xoài, curd chanh leo, vanilla",
+      "hook": "Lõi vàng tươi chua–ngọt",
+      "risk": "Hai nhân trái cây ướt, trùng vai trò trái cây với vải",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://www.tastetomorrow.com/inspiration/viral-flavors-to-apply-in-your-next-baked-good--pastry-or-choc1",
+        "https://www.tastetomorrow.com/inspiration/viral-textures-taking-over-the-bakery--patisserie---chocolate-in"
+      ],
+      "scores": [
+        5,
+        5,
+        5,
+        2,
+        4
+      ],
+      "weighted_score": 88,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 42,
+      "name": "Hojicha – caramel",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-global-viral.md",
+      "pool_index": 48,
+      "components": "Kem hojicha, caramel",
+      "hook": "Lõi caramel giữa kem trà rang",
+      "risk": "Trà bị sữa lấn; caramel chảy",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://www.tastetomorrow.com/inspiration/viral-flavors-to-apply-in-your-next-baked-good--pastry-or-choc1",
+        "https://www.puratos.com/blog/must-have-offerings-for-bakery-chains-in-2025",
+        "https://www.tastetomorrow.com/inspiration/viral-textures-taking-over-the-bakery--patisserie---chocolate-in"
+      ],
+      "scores": [
+        4,
+        3,
+        5,
+        3,
+        4
+      ],
+      "weighted_score": 79,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 43,
+      "name": "Chai gia vị – caramel muối",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-global-viral.md",
+      "pool_index": 49,
+      "components": "Kem chai gia vị, caramel muối",
+      "hook": "Hương gia vị mùa lạnh và lõi caramel",
+      "risk": "Gia vị gắt; độ nhận biết chai chưa biết",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://www.puratos.com/blog/must-have-offerings-for-bakery-chains-in-2025",
+        "https://www.tastetomorrow.com/inspiration/viral-textures-taking-over-the-bakery--patisserie---chocolate-in"
+      ],
+      "scores": [
+        4,
+        3,
+        4,
+        3,
+        4
+      ],
+      "weighted_score": 74,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 44,
+      "name": "Ube – dừa – mochi mỏng",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-global-viral.md",
+      "pool_index": 50,
+      "components": "Ube, kem dừa, mochi mỏng",
+      "hook": "Tím đậm và dẻo–giòn đối lập",
+      "risk": "Ube không phải khoai môn; mochi dễ bết/cứng",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://www.puratos.com/blog/must-have-offerings-for-bakery-chains-in-2025",
+        "https://www.tastetomorrow.com/inspiration/viral-textures-taking-over-the-bakery--patisserie---chocolate-in"
+      ],
+      "scores": [
+        5,
+        3,
+        4,
+        2,
+        3
+      ],
+      "weighted_score": 74,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 45,
+      "name": "Mè đen – yuzu",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-global-viral.md",
+      "pool_index": 51,
+      "components": "Mè đen, curd yuzu",
+      "hook": "Đen–vàng chua, lát cắt tương phản",
+      "risk": "Yuzu dễ đắt/khó nguồn; phải cân vị mè",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://www.tastetomorrow.com/inspiration/viral-flavors-to-apply-in-your-next-baked-good--pastry-or-choc1",
+        "https://www.tastetomorrow.com/inspiration/viral-textures-taking-over-the-bakery--patisserie---chocolate-in"
+      ],
+      "scores": [
+        5,
+        3,
+        4,
+        3,
+        3
+      ],
+      "weighted_score": 77,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 46,
+      "name": "Vanilla crème brûlée",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-global-viral.md",
+      "pool_index": 52,
+      "components": "Kem vanilla, lớp đường khò mỏng",
+      "hook": "Gõ vỡ đường rồi cắt nhân kem",
+      "risk": "Lớp đường hút ẩm; không hứa giòn sau ship",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://www.puratos.com/blog/must-have-offerings-for-bakery-chains-in-2025",
+        "https://www.tastetomorrow.com/inspiration/viral-textures-taking-over-the-bakery--patisserie---chocolate-in"
+      ],
+      "scores": [
+        5,
+        4,
+        5,
+        1,
+        4
+      ],
+      "weighted_score": 82,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 47,
+      "name": "Malt chocolate kiểu Milo dầm",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-child-family.md",
+      "pool_index": 54,
+      "components": "Ganache malt chocolate, hạt malt giòn",
+      "hook": "Gợi Milo dầm bằng mặt bột và hạt giòn",
+      "risk": "Dễ ngọt nặng; hạt malt mềm trong kem",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://kinhtedouong.vn/milo-dam-va-su-quen-thuoc-trong-van-hoa-am-thuc-duong-pho-131999.html",
+        "https://pastryartsmag.com/general/brown-butter-beurre-noisette-usage-in-viennoiserie-and-other-barrier-methods/"
+      ],
+      "scores": [
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "weighted_score": 83,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 48,
+      "name": "Bắp sữa – phô mai nướng",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-child-family.md",
+      "pool_index": 55,
+      "components": "Kem bắp, bắp rang khô, phô mai nướng",
+      "hook": "Vàng bắp và mặt cháy phô mai",
+      "risk": "Bắp nhiều nước, cheese lấn mùi bắp",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam-agri.com/en/vietnam-agri/vietnam-fruit-calendar/",
+        "https://bakerpedia.com/processes/croissant"
+      ],
+      "scores": [
+        5,
+        5,
+        5,
+        2,
+        3
+      ],
+      "weighted_score": 85,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 49,
+      "name": "Flan – cà phê – cốt dừa",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-child-family.md",
+      "pool_index": 56,
+      "components": "Mini flan, kem dừa, caramel cà phê",
+      "hook": "Flan rung trên vỏ croissant giòn",
+      "risk": "Rung đẹp nhưng dễ bẹp/ướt khi giao",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://www.sciencedirect.com/science/article/pii/S2772502225006754",
+        "https://bestdessertdanang.com/top-10-desserts-da-nang"
+      ],
+      "scores": [
+        5,
+        5,
+        4,
+        1,
+        2
+      ],
+      "weighted_score": 74,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 50,
+      "name": "Dâu tây – sữa chua dẻo",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-child-family.md",
+      "pool_index": 57,
+      "components": "Kem sữa chua, compote dâu",
+      "hook": "Đỏ–trắng trong lát cắt",
+      "risk": "Nhân chua ướt, màu dâu thay đổi theo lô",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://roots.vn/blog/vietnamese-seasonal-fruits-a-month-by-month-harvest-calendar-how-to-choose-fresh-fruit",
+        "https://pastryartsmag.com/general/brown-butter-beurre-noisette-usage-in-viennoiserie-and-other-barrier-methods/"
+      ],
+      "scores": [
+        5,
+        5,
+        5,
+        2,
+        4
+      ],
+      "weighted_score": 88,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 51,
+      "name": "Xôi cốm – sen – dừa non",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-desserts.md",
+      "pool_index": 61,
+      "components": "Cốm, sen, kem dừa lá dứa",
+      "hook": "Lõi xanh và chuyện xôi cốm",
+      "risk": "Nhiều thành phần; cốm/sen đặc khi lạnh",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://www.vietnamtourism.org.vn/vietnam-cuisine/food-culture/hanoi-bang-bang-ii-fall%E2%80%99s-green-rice-flakes.html",
+        "https://govietnam.travel/en/food/xoi/",
+        "https://conectnext.com/moisture-migration-control-in-filled-pastries/"
+      ],
+      "scores": [
+        5,
+        5,
+        4,
+        2,
+        2
+      ],
+      "weighted_score": 77,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 52,
+      "name": "Chuối nướng – bơ nâu – dừa – mè",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-desserts.md",
+      "pool_index": 62,
+      "components": "Chuối áp bơ nâu, kem dừa, mè",
+      "hook": "Chuối nướng có lớp caramel mặt cắt",
+      "risk": "Chuối thâm/rỉ nước; caramel ướt",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnamtourism.gov.vn/en/printer/20679?type=1",
+        "https://www.willflyforfood.net/vietnamese-desserts/",
+        "https://www.tastelab.food/encyclopedia/concepts/moisture-migration-dough-baked-goods"
+      ],
+      "scores": [
+        4,
+        5,
+        5,
+        2,
+        4
+      ],
+      "weighted_score": 82,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 53,
+      "name": "Bánh da lợn – lá dứa – đậu xanh – dừa",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-desserts.md",
+      "pool_index": 63,
+      "components": "Kem lá dứa dừa, paste đậu xanh mỏng",
+      "hook": "Tầng xanh–vàng–trắng như bánh da lợn",
+      "risk": "Không nhồi khối bánh hấp; nhân đặc/ẩm cần thử",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://www.cantho.gov.vn/wps/portal/home/en/detail/cuisines/can-tho-specialties/banh+tet+la+cam+a+famous+specialty+of+can+tho+city",
+        "https://nomadparadise.com/vietnamese-desserts/",
+        "https://www.bakeryacademy.com/bakery-blogs/anatomy-of-a-premium-croissant-lamination--butter--and-the-honeycomb"
+      ],
+      "scores": [
+        5,
+        5,
+        5,
+        3,
+        4
+      ],
+      "weighted_score": 91,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 54,
+      "name": "Trôi tàu – mè đen – gừng – mật mía",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-desserts.md",
+      "pool_index": 64,
+      "components": "Mè đen, gừng mật mía, mochi mỏng",
+      "hook": "Lõi đen và viên dẻo; gợi trôi tàu",
+      "risk": "Mochi bết/cứng, syrup làm mềm lớp bánh",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/top-tasty-vietnamese-treats-satisfy-your-sweet-tooth/",
+        "https://www.vietnamtourism.com/en/che-a-guide-to-vietnam-s-sweet-dessert-soups",
+        "https://bakeryinsider.com/croissant-fillings-trends-2026/"
+      ],
+      "scores": [
+        5,
+        5,
+        4,
+        2,
+        3
+      ],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 55,
+      "name": "Khoai môn – trứng muối kim sa – dừa",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-vietnamese-desserts.md",
+      "pool_index": 65,
+      "components": "Kem khoai môn, trứng muối sánh, dừa",
+      "hook": "Tím nhạt–vàng kim sa lộ khi cắt",
+      "risk": "Khoai môn không tự tím đậm; nhân đặc và dầu dễ tách",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/vietnamese-snacks/",
+        "https://www.bakeryacademy.com/bakery-blogs/anatomy-of-a-premium-croissant-lamination--butter--and-the-honeycomb",
+        "https://domson.co.uk/gb/academy/pastry-technology/pastry-creams-and-cold-fillings"
+      ],
+      "scores": [
+        5,
+        5,
+        5,
+        2,
+        3
+      ],
+      "weighted_score": 85,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 56,
+      "name": "Cà phê trứng",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-tea-coffee.md",
+      "pool_index": 66,
+      "components": "Kem trứng chín, cà phê cô dạng gel/ganache",
+      "hook": "Lõi vàng kem–nâu cà phê như cà phê trứng",
+      "risk": "Kem lấn cà phê, syrup thấm ruột; không bắt buộc khò đường",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://guide.michelin.com/vn/en/article/features/iconic-dishes-a-guide-to-vietnamese-coffee",
+        "https://vietnam.travel/things-to-do/secret-art-vietnamese-coffee/",
+        "https://bakerpedia.com/processes/croissant/"
+      ],
+      "scores": [
+        5,
+        5,
+        5,
+        2,
+        4
+      ],
+      "weighted_score": 88,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 57,
+      "name": "Trà sen – hạt sen",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-tea-coffee.md",
+      "pool_index": 68,
+      "components": "Ganache trà sen, paste sen mỏng",
+      "hook": "Kem trắng ngà và câu chuyện hương trà",
+      "risk": "Trà sen bị bơ lấn; sen làm nhân bột",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://special.nhandan.vn/Tra-uop-sen-Tay-Ho/index.html",
+        "https://dantocmiennui.baotintuc.vn/sen-ho-tay-tu-ve-dep-thanh-khiet-den-huong-lam-tra-doc-dao-post1372201.html",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11353510/"
+      ],
+      "scores": [
+        3,
+        4,
+        5,
+        3,
+        3
+      ],
+      "weighted_score": 73,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 58,
+      "name": "Ô long rang – mơ",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-tea-coffee.md",
+      "pool_index": 69,
+      "components": "Kem ô long rang, gel mơ",
+      "hook": "Nâu trà với tâm vàng mơ",
+      "risk": "Trà đắng, acid làm nhân khó ổn định",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://en.traviet.com/c/tea/",
+        "https://bakerpedia.com/processes/croissant/"
+      ],
+      "scores": [
+        4,
+        4,
+        5,
+        2,
+        4
+      ],
+      "weighted_score": 79,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 59,
+      "name": "Cà phê cốt dừa",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-tea-coffee.md",
+      "pool_index": 70,
+      "components": "Ganache cà phê, kem dừa, dừa nướng",
+      "hook": "Vân nâu–trắng như cà phê cốt dừa",
+      "risk": "Hai nhân nhiều nước/dầu, dừa lấn cà phê",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnam.travel/things-to-do/secret-art-vietnamese-coffee/",
+        "https://bakerpedia.com/processes/croissant/"
+      ],
+      "scores": [
+        4,
+        5,
+        5,
+        2,
+        4
+      ],
+      "weighted_score": 82,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 60,
+      "name": "Trà xanh – mè đen",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-tea-coffee.md",
+      "pool_index": 71,
+      "components": "Kem trà xanh, praline mè đen",
+      "hook": "Xanh–đen mạnh trong mặt cắt",
+      "risk": "Không gọi trà nghiền là matcha; mè lấn trà",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://suoigiang.com/huong-dan-phan-biet-tra-shan-tuyet-that-gia-de-khong-bi-mat-tien-oan/",
+        "https://hungmoctra.vn/4-vung-tra-shan-tuyet-co-thu-ngon-nhat-tai-viet-nam.html"
+      ],
+      "scores": [
+        5,
+        4,
+        5,
+        3,
+        4
+      ],
+      "weighted_score": 88,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 61,
+      "name": "Hồng trà – cam confit",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-tea-coffee.md",
+      "pool_index": 72,
+      "components": "Ganache hồng trà, cam confit",
+      "hook": "Lõi nâu trà có vân cam sáng",
+      "risk": "Hương trà yếu; cam đắng/dai",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://tradaohawa.com/tra-shan-tuyet-tinh-hoa-tu-dai-ngan-tay-bac/",
+        "https://khimfood.com/blogs/news/30-loai-trai-cay-mien-bac-dac-san-mien-bac-ngon-va-noi-tieng-nhat"
+      ],
+      "scores": [
+        4,
+        4,
+        5,
+        3,
+        4
+      ],
+      "weighted_score": 82,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 62,
+      "name": "Cacao đen – mắc khén",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-tea-coffee.md",
+      "pool_index": 73,
+      "components": "Ganache cacao đen, mắc khén liều nhẹ",
+      "hook": "Chocolate đen có nốt tê thơm bất ngờ",
+      "risk": "Mắc khén gắt, không phải ai cũng thích",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11353510/",
+        "https://guide.michelin.com/vn/en/article/features/iconic-dishes-a-guide-to-vietnamese-coffee"
+      ],
+      "scores": [
+        4,
+        3,
+        4,
+        4,
+        3
+      ],
+      "weighted_score": 74,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 63,
+      "name": "Lạp sườn hun khói – phô mai – mắc khén",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-savory-premium.md",
+      "pool_index": 74,
+      "components": "Lạp sườn áp ráo, phô mai, mắc khén",
+      "hook": "Mặt cắt lạp sườn đỏ và cheese",
+      "risk": "Dầu lạp sườn tràn, vị mặn nặng",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://bakerpedia.com/processes/croissant/",
+        "https://govietnam.travel/en/explore/theme/food/"
+      ],
+      "scores": [
+        4,
+        4,
+        4,
+        3,
+        2
+      ],
+      "weighted_score": 71,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 64,
+      "name": "Chả mực – thì là – phô mai",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-savory-premium.md",
+      "pool_index": 75,
+      "components": "Chả mực, thì là, phô mai lượng nhỏ",
+      "hook": "Thớ chả mực có texture rõ",
+      "risk": "Dầu/ẩm và hương biển mạnh khi nguội",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://bakerpedia.com/processes/croissant/",
+        "https://govietnam.travel/en/explore/theme/food/"
+      ],
+      "scores": [
+        4,
+        4,
+        4,
+        2,
+        2
+      ],
+      "weighted_score": 68,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 65,
+      "name": "Nấm hương – hành nướng – chao",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-savory-premium.md",
+      "pool_index": 77,
+      "components": "Nấm hương áp khô, hành nướng, kem chao",
+      "hook": "Lõi nấm đen trong kem trắng",
+      "risk": "Chao lấn nấm; nấm ra nước",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://bakerpedia.com/processes/croissant/",
+        "https://govietnam.travel/en/explore/theme/food/"
+      ],
+      "scores": [
+        4,
+        4,
+        4,
+        2,
+        3
+      ],
+      "weighted_score": 71,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 66,
+      "name": "Tôm khô – bắp – rau răm",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-savory-premium.md",
+      "pool_index": 78,
+      "components": "Tôm khô, bắp khô mặt, rau răm",
+      "hook": "Vàng bắp đỏ tôm xanh rau",
+      "risk": "Nhân mặn/ẩm; rau răm héo",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://bakerpedia.com/processes/croissant/",
+        "https://govietnam.travel/en/explore/theme/food/"
+      ],
+      "scores": [
+        4,
+        4,
+        4,
+        3,
+        2
+      ],
+      "weighted_score": 71,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 67,
+      "name": "Thịt nướng mắc mật – phô mai",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-savory-premium.md",
+      "pool_index": 79,
+      "components": "Thịt nướng mắc mật, phô mai, dưa chua riêng",
+      "hook": "Thịt xém và hương mắc mật",
+      "risk": "Dầu thịt/nước dưa; phô mai lấn mắc mật",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://bakerpedia.com/processes/croissant/",
+        "https://govietnam.travel/en/explore/theme/food/"
+      ],
+      "scores": [
+        4,
+        4,
+        4,
+        2,
+        2
+      ],
+      "weighted_score": 68,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 68,
+      "name": "Bò kiểu phở – gừng – hành nướng",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-breakfast-local.md",
+      "pool_index": 81,
+      "components": "Bò, gừng hành nướng, gia vị phở cô",
+      "hook": "Phở bò thành bánh; cắt lộ bò và rau",
+      "risk": "Không dùng nước dùng lỏng; nhiều công cho một filling",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnamtourism.gov.vn/en/post/18886",
+        "https://vietnamtourism.gov.vn/en/post/9045",
+        "https://www.whatsbaking.co/post/how-to-fill-pastries-without-sogginess"
+      ],
+      "scores": [
+        4,
+        5,
+        3,
+        2,
+        1
+      ],
+      "weighted_score": 63,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 69,
+      "name": "Thịt nấm kiểu bánh cuốn",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-breakfast-local.md",
+      "pool_index": 82,
+      "components": "Thịt nấm băm, hành phi",
+      "hook": "Lõi bánh cuốn trong vỏ giòn",
+      "risk": "Gần bánh gối nhưng không trứng; nấm ẩm",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnamtourism.gov.vn/en/post/18886",
+        "https://vietnamtourism.gov.vn/en/post/9045",
+        "https://www.whatsbaking.co/post/how-to-fill-pastries-without-sogginess"
+      ],
+      "scores": [
+        3,
+        5,
+        4,
+        3,
+        3
+      ],
+      "weighted_score": 71,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 70,
+      "name": "Chả lụa – mỡ hành – ớt",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-breakfast-local.md",
+      "pool_index": 84,
+      "components": "Chả lụa, mỡ hành liều nhỏ, ớt",
+      "hook": "Lát chả sáng và vệt hành xanh",
+      "risk": "Dầu mềm vỏ; novelty thấp",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnamtourism.gov.vn/en/post/18886",
+        "https://vietnamtourism.gov.vn/en/post/9045",
+        "https://www.whatsbaking.co/post/how-to-fill-pastries-without-sogginess"
+      ],
+      "scores": [
+        3,
+        5,
+        4,
+        3,
+        3
+      ],
+      "weighted_score": 71,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 71,
+      "name": "Trứng muối kim sa – hành lá",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-breakfast-local.md",
+      "pool_index": 85,
+      "components": "Kem trứng muối, hành lá",
+      "hook": "Lõi vàng sánh và hành xanh",
+      "risk": "Nhân dễ tách dầu; vị trứng phải rõ",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnamtourism.gov.vn/en/post/18886",
+        "https://delifrance.com/blog/post/6-bakery-trends-to-follow-in-2026",
+        "https://www.whatsbaking.co/post/how-to-fill-pastries-without-sogginess"
+      ],
+      "scores": [
+        5,
+        5,
+        4,
+        2,
+        4
+      ],
+      "weighted_score": 83,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 72,
+      "name": "Bắp nếp – miso butter – hành",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-breakfast-local.md",
+      "pool_index": 86,
+      "components": "Bắp nếp, bơ miso, hành",
+      "hook": "Hạt bắp vàng giữa ruột bánh",
+      "risk": "Hạt ẩm/rắn, miso dễ mặn",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnamtourism.gov.vn/en/post/18886",
+        "https://www.whatsbaking.co/post/how-to-fill-pastries-without-sogginess"
+      ],
+      "scores": [
+        4,
+        4,
+        5,
+        3,
+        3
+      ],
+      "weighted_score": 79,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 73,
+      "name": "Gà – gừng – nấm kiểu cháo gà",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-breakfast-local.md",
+      "pool_index": 87,
+      "components": "Gà xé, gừng, nấm, vụn gạo giòn",
+      "hook": "Mùi cháo gà trong bánh khô giòn",
+      "risk": "Không dùng cháo ướt; tên dễ gây kỳ vọng sai",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vietnamtourism.gov.vn/en/post/18886",
+        "https://www.whatsbaking.co/post/how-to-fill-pastries-without-sogginess"
+      ],
+      "scores": [
+        3,
+        4,
+        3,
+        2,
+        2
+      ],
+      "weighted_score": 57,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 74,
+      "name": "Gấc – quất – chocolate trắng",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-texture-visual.md",
+      "pool_index": 92,
+      "components": "Gấc, curd quất, chocolate trắng",
+      "hook": "Đỏ–vàng như xôi gấc chuyển sang bánh",
+      "risk": "Màu gấc sau nướng cần thử; thêm lớp bột gây lệch nở",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://khuyennongvn.gov.vn/thong-tin-thi-truong/thi-truong-trong-nuoc/cao-phong-mua-cam-ngot-19476.html",
+        "https://bakerpedia.com/processes/dough-lamination/",
+        "https://pubmed.ncbi.nlm.nih.gov/22164774/"
+      ],
+      "scores": [
+        5,
+        4,
+        4,
+        2,
+        2
+      ],
+      "weighted_score": 74,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 75,
+      "name": "Trà nhài – vỏ craquelin",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-texture-visual.md",
+      "pool_index": 93,
+      "components": "Kem trà nhài, craquelin mỏng",
+      "hook": "Vỏ nứt rắc và kem trà",
+      "risk": "Craquelin nặng cản nở; hút ẩm mất giòn",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://www.tastetomorrow.com/inspiration/viral-textures-taking-over-the-bakery--patisserie---chocolate-in",
+        "https://bakerpedia.com/processes/croissant/",
+        "https://vietnam.travel/things-to-do/vietnamese-tea-culture"
+      ],
+      "scores": [
+        5,
+        4,
+        4,
+        2,
+        3
+      ],
+      "weighted_score": 77,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 76,
+      "name": "Khoai lang tím – toffee thốt nốt",
+      "origin": "agent research + parent synthesis",
+      "source_record": "research/agents/2026-11-08-sku-texture-visual.md",
+      "pool_index": 95,
+      "components": "Paste khoai lang tím, toffee thốt nốt",
+      "hook": "Xé vòng tím–nâu, không hứa kéo sợi như phô mai",
+      "risk": "Khoai đặc và toffee dễ cháy/dính",
+      "reuse": "Dùng chung bột croissant; filling riêng hoặc cùng họ kem/ganache, phải xác nhận bằng thử bếp.",
+      "season": "Chưa kiểm chứng lịch cung ứng địa phương; xem mùa trong memo chỉ như lead.",
+      "source_leads": [
+        "https://vnexpress.net/nhung-mon-an-vat-mua-dong-ha-noi-4987993.html",
+        "https://bakerpedia.com/processes/dough-lamination/",
+        "https://thanglong.chinhphu.vn/tang-dien-tich-san-xuat-cay-vu-dong-dap-ung-nguon-cung-dip-cuoi-nam-103241031134839134.htm"
+      ],
+      "scores": [
+        5,
+        5,
+        4,
+        3,
+        3
+      ],
+      "weighted_score": 83,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 77,
+      "name": "Xoài xôi dừa lá dứa",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Gel xoài, kem dừa lá dứa, cốm gạo giòn; không nhồi nguyên nắm xôi",
+      "hook": "Mặt cắt vàng–xanh–trắng, tiếng gạo giòn",
+      "risk": "Gel và gạo giòn chạm kem sẽ mềm; cần kiểm tra độ giữ giòn",
+      "category": "Trái cây",
+      "season": "Mùa xoài theo vùng; ngoài mùa phải thử purée",
+      "scores": [
+        5,
+        4,
+        4,
+        2,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 78,
+      "name": "Táo tatin – caramel bơ mặn",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Táo áp caramel, vanilla, caramel bơ mặn",
+      "hook": "Miếng táo xếp quạt bóng trên vỏ bánh",
+      "risk": "Táo ra nước và caramel dính hộp",
+      "category": "Trái cây",
+      "season": "Theo nhà cung cấp; không gọi táo là đặc sản Sóc Sơn",
+      "scores": [
+        4,
+        4,
+        4,
+        3,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 77,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 79,
+      "name": "Đào – ô long – kem sữa",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Đào cô đặc, kem ô long, streusel",
+      "hook": "Lõi cam đào giữa kem trà màu be",
+      "risk": "Quả ướt; trà có thể đắng hoặc bị kem lấn",
+      "category": "Trà",
+      "season": "Đào tươi theo vụ; compote ngoài vụ",
+      "scores": [
+        4,
+        4,
+        4,
+        2,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 74,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 80,
+      "name": "Dứa – tiêu đen – dừa nướng",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Dứa confit, caramel tiêu, dừa nướng",
+      "hook": "Mặt dứa vàng có vết nướng và hạt tiêu",
+      "risk": "Vị tiêu dễ gắt; dứa cô chưa đủ làm ướt ruột",
+      "category": "Trái cây",
+      "season": "Kiểm tra chất lượng dứa theo lô",
+      "scores": [
+        4,
+        4,
+        4,
+        3,
+        3
+      ],
+      "source_leads": [],
+      "weighted_score": 74,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 81,
+      "name": "Hạt dẻ – vanilla kiểu Mont Blanc",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Paste hạt dẻ, kem vanilla, vụn hạt dẻ",
+      "hook": "Sợi kem hạt dẻ thành tổ trên vỏ giòn",
+      "risk": "Paste nặng và dễ khô; topping cao dễ bẹp",
+      "category": "Hạt",
+      "season": "Hạt dẻ tươi theo vụ; paste bảo quản là sản phẩm khác",
+      "scores": [
+        5,
+        3,
+        4,
+        2,
+        3
+      ],
+      "source_leads": [],
+      "weighted_score": 74,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 82,
+      "name": "Cam – gừng – chocolate đen",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Cam confit, ganache đen, gừng liều nhẹ",
+      "hook": "Vân cam sáng giữa lớp chocolate nâu",
+      "risk": "Vỏ cam đắng hoặc dai; gừng lấn vị",
+      "category": "Trái cây",
+      "season": "Citrus theo vùng; không gán tháng chính xác khi chưa có nguồn",
+      "scores": [
+        4,
+        4,
+        4,
+        3,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 77,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 83,
+      "name": "Lạc – caramel – kẹo giòn",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Praline lạc, caramel mặn, mảnh kẹo lạc",
+      "hook": "Bẻ mảnh kẹo và lộ nhân praline",
+      "risk": "Kẹo hút ẩm; hạt làm nhân quá đặc",
+      "category": "Hạt",
+      "season": "Nguyên liệu khô; phải kiểm tra nguồn cung",
+      "scores": [
+        5,
+        5,
+        5,
+        4,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 94,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 84,
+      "name": "Mè đen – mochi – gừng",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Praline mè, mochi mỏng, gừng",
+      "hook": "Kéo mochi trắng bên trong lõi mè đen",
+      "risk": "Mochi dai cứng khi nguội; không hứa kéo sợi nếu chưa thử",
+      "category": "Mochi",
+      "season": "Không phụ thuộc một vụ trái cây",
+      "scores": [
+        5,
+        4,
+        4,
+        2,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 85,
+      "name": "Sữa chua nếp cẩm",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Kem sữa chua, nếp cẩm mềm lượng nhỏ",
+      "hook": "Màu tím đậm cạnh kem trắng",
+      "risk": "Nếp nguội cứng; nước sữa chua làm mềm lớp bánh",
+      "category": "Món chè",
+      "season": "Nguồn cảm hứng Việt Nam; không có demand riêng Sóc Sơn",
+      "scores": [
+        5,
+        5,
+        4,
+        2,
+        3
+      ],
+      "source_leads": [],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 86,
+      "name": "Chè bắp – dừa mặn",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Kem bắp, dừa mặn, bắp rang",
+      "hook": "Lõi vàng và hạt bắp nướng lộ rõ",
+      "risk": "Bắp ra nước; hạt lớn làm rách ruột",
+      "category": "Món chè",
+      "season": "Theo nguồn bắp; không khẳng định mùa cao điểm",
+      "scores": [
+        4,
+        5,
+        5,
+        3,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 85,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 87,
+      "name": "Trà sữa – trân châu đường đen",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Kem hồng trà, caramel đường đen, trân châu lượng nhỏ",
+      "hook": "Trân châu đen lộ trong kem trà",
+      "risk": "Trân châu cứng hoặc bết khi giữ lâu; syrup dễ thấm bánh",
+      "category": "Trà",
+      "season": "Không phụ thuộc vụ trái cây",
+      "scores": [
+        5,
+        5,
+        4,
+        1,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 88,
+      "name": "Bơ – cacao kiểu sinh tố bơ",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Kem bơ, ganache cacao, vụn cacao",
+      "hook": "Kem xanh nhạt với lõi cacao nâu",
+      "risk": "Bơ oxy hóa và thay đổi độ béo theo lô",
+      "category": "Trái cây",
+      "season": "Bơ theo vùng; ngoài vụ kiểm tra purée",
+      "scores": [
+        4,
+        4,
+        4,
+        1,
+        3
+      ],
+      "source_leads": [],
+      "weighted_score": 68,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 89,
+      "name": "Chanh vàng – meringue",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Lemon curd, meringue khò mỏng",
+      "hook": "Đỉnh meringue khò và lõi vàng chua",
+      "risk": "Meringue/curd ẩm; đỉnh cao khó giao",
+      "category": "Trái cây",
+      "season": "Chưa xác nhận nguồn chanh nội địa",
+      "scores": [
+        5,
+        4,
+        5,
+        2,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 85,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 90,
+      "name": "Dâu tằm – sữa chua",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Gel dâu tằm, kem sữa chua",
+      "hook": "Lõi tím đỏ giữa kem trắng",
+      "risk": "Acid và kem có thể tách; gel ướt thấm ruột",
+      "category": "Trái cây",
+      "season": "Dâu tằm theo vụ; bảo quản cần khai rõ",
+      "scores": [
+        5,
+        4,
+        4,
+        2,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 91,
+      "name": "Mận muối – vanilla",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Compote mận, chút mận muối, kem vanilla",
+      "hook": "Lõi đỏ tím với nhãn vị chua–mặn",
+      "risk": "Mận chua gắt và dễ làm lỏng kem",
+      "category": "Trái cây",
+      "season": "Mận tươi theo vụ; mận muối không phải trái tươi",
+      "scores": [
+        4,
+        4,
+        4,
+        2,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 74,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 92,
+      "name": "Gừng mật mía – lê",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Lê áp chảo, gel gừng mật mía, kem sữa",
+      "hook": "Lê xếp quạt và caramel màu hổ phách",
+      "risk": "Lê nhiều nước; gừng và mật mía có thể nặng",
+      "category": "Trái cây",
+      "season": "Đề xuất hương vị mùa lạnh, không phải lịch thu hoạch",
+      "scores": [
+        4,
+        3,
+        4,
+        3,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 74,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 93,
+      "name": "Caramel sữa – miso – macadamia",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Caramel sữa miso, macadamia rang",
+      "hook": "Nhân caramel sánh và hạt rang",
+      "risk": "Miso dễ mặn; caramel chảy khi ấm",
+      "category": "Hạt",
+      "season": "Nguyên liệu chế biến; kiểm tra nguồn",
+      "scores": [
+        4,
+        3,
+        5,
+        4,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 82,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 94,
+      "name": "Dâu tây – balsamic – tiêu",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Compote dâu, chút balsamic, tiêu, cream cheese",
+      "hook": "Đỏ đậm cạnh kem trắng, vị chua–cay bất ngờ",
+      "risk": "Dễ thành quá chua; quả ướt",
+      "category": "Trái cây",
+      "season": "Dâu theo vùng và nhà cung cấp",
+      "scores": [
+        5,
+        3,
+        4,
+        2,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 77,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 95,
+      "name": "Dừa non – đường thốt nốt – mè",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Dừa non cô, kem dừa, caramel thốt nốt",
+      "hook": "Dừa trắng với lõi caramel nâu",
+      "risk": "Sợi dừa dai; kem/caramel thấm bánh",
+      "category": "Món chè",
+      "season": "Kiểm tra độ non/dai theo lô",
+      "scores": [
+        4,
+        5,
+        5,
+        3,
+        5
+      ],
+      "source_leads": [],
+      "weighted_score": 88,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 96,
+      "name": "Tắc xí muội – mật ong",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Gel tắc, xí muội, kem mật ong",
+      "hook": "Lõi vàng và vị nước giải khát quen thành bánh",
+      "risk": "Hương tắc dễ mất; xí muội mặn gắt",
+      "category": "Trái cây",
+      "season": "Kiểm tra tắc theo nhà cung cấp",
+      "scores": [
+        4,
+        5,
+        4,
+        3,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 80,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 97,
+      "name": "Crookie chocolate chunk",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Cookie dough chín mềm, chocolate miếng, vỏ croissant",
+      "hook": "Bẻ bánh thấy cookie mềm và chocolate",
+      "risk": "Dễ quá ngọt/nặng; độ chín hai phần khác nhau",
+      "category": "Hybrid",
+      "season": "Format có nguồn trend 2024; không tự gọi trend hiện tại",
+      "scores": [
+        5,
+        4,
+        4,
+        4,
+        3
+      ],
+      "source_leads": [],
+      "weighted_score": 83,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 98,
+      "name": "Brownie – cam confit",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Brownie mỏng, ganache đen, cam confit",
+      "hook": "Lõi brownie đen đặc tương phản vỏ tổ ong",
+      "risk": "Quá nặng ruột; chocolate có thể lấn cam",
+      "category": "Hybrid",
+      "season": "Không phụ thuộc trái tươi nếu dùng confit",
+      "scores": [
+        5,
+        4,
+        4,
+        4,
+        4
+      ],
+      "source_leads": [],
+      "weighted_score": 86,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 99,
+      "name": "Crab rangoon – cua – cream cheese",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Thịt cua, cream cheese, hành, sốt riêng",
+      "hook": "Lõi trắng có thớ cua và vỏ giòn",
+      "risk": "Thịt cua ướt; cream cheese nặng và dễ tràn",
+      "category": "Mặn",
+      "season": "Chưa có bằng chứng Soc Sơn thích combo này",
+      "scores": [
+        4,
+        3,
+        4,
+        2,
+        2
+      ],
+      "source_leads": [],
+      "weighted_score": 65,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    },
+    {
+      "id": 100,
+      "name": "Kimchi – phô mai – rong biển",
+      "origin": "parent concept proposal; not researched existing product",
+      "components": "Kimchi vắt ráo, phô mai, rong biển hoàn thiện",
+      "hook": "Lõi đỏ–vàng, kéo phô mai khi ăn ấm",
+      "risk": "Kimchi ướt/mặn; kéo phô mai giảm khi nguội",
+      "category": "Mặn",
+      "season": "Nguyên liệu lên men; không suy ra demand địa phương",
+      "scores": [
+        5,
+        4,
+        4,
+        2,
+        3
+      ],
+      "source_leads": [],
+      "weighted_score": 77,
+      "evidence_status": "Concept proposal, not validated recipe/sales/viral outcome"
+    }
+  ]
+}
